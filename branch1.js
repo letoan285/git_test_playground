@@ -4,13 +4,14 @@
 // 1. This is new code from test1 - branch one
 // 2. This is new code from test1 - branch one
 
+
 // This is function 1
-const getDetailOne = () => {
-    return 'detail page One'
+const getDetailTwo = () => {
+    return 'detail page from Git One'
 }
 
 
 // this is function 2
-const getListOne = () => {
-    return 'get list page One'
+const getListTwo = () => {
+    return 'get list page From git two'
 }

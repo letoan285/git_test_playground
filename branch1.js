@@ -4,9 +4,10 @@
 // 1. This is new code from test1 - branch one
 // 2. This is new code from test1 - branch one
 
+
 // This is function 1
-const getDetailOne = () => {
-    return 'detail page One'
+const getDetailTwo = () => {
+    return 'detail page from Git One'
 }
 
 

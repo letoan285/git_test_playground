@@ -12,6 +12,6 @@ const getDetailTwo = () => {
 
 
 // this is function 2
-const getListTwo = () => {
-    return 'get list page From git two'
+const getListOne = () => {
+    return 'get list page One'
 }
